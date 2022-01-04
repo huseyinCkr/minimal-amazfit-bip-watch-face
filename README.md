@@ -17,4 +17,8 @@ Mi Fit(https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=en&
 
 ![](info5.jpg)
 
+Download binary:
 https://amazfitwatchfaces.com/bip/view/41296
+
+WatchFace.exe tool:
+https://mega.nz/file/AsNxHKIb#v0-FtY1NyJLgdARqOO1LUsqmT7go7IOTvfw0aLuyqNg
