@@ -1,0 +1,64 @@
+{
+    "Background": {
+        "Image": {
+            "Y": 0,
+            "X": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "Y": 25,
+                "X": 40,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "Y": 25,
+                "X": 70,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "Y": 25,
+                "X": 105,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "Y": 25,
+                "X": 135,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            }
+        },
+    },
+    "Date": {
+        "WeekDay": {
+            "Y": 74,
+            "X": 50,
+            "ImageIndex": 120,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "OneLine": {
+                "Number": {
+                    "TopLeftX": 105,
+                    "TopLeftY": 74,
+                    "BottomRightX": 68,
+                    "BottomRightY": 10,
+                    "Alignment": "TopLeft",
+                    "Spacing": 1,
+                    "ImageIndex": 130,
+                    "ImagesCount": 10
+                },
+                "DelimiterImageIndex": 140
+            },
+            "TwoDigitsMonth": false,
+            "TwoDigitsDay": false
+        }
+    }
+}
