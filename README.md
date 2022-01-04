@@ -16,3 +16,5 @@ Mi Fit(https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=en&
 ![](info4.jpg)
 
 ![](info5.jpg)
+
+https://amazfitwatchfaces.com/bip/view/41296
